@@ -6,7 +6,7 @@
 
 각 부분에 유지보수가 용이하기 위해 사용함.
 
-![Untitled](%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC%207%E1%84%8C%E1%85%A1%E1%86%BC%2054a60e85a5b64a4bb63f3c3b4e93967c/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/26597702/135571696-a970b132-ae7b-4d05-b971-d7d83a8eb69f.png)
 
 1. Presentation Tier
     
@@ -23,15 +23,15 @@
 
 ### MVC를 3tier에 대입했을 때
 
-![Untitled](%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC%207%E1%84%8C%E1%85%A1%E1%86%BC%2054a60e85a5b64a4bb63f3c3b4e93967c/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/26597702/135571604-6cc17c37-e77d-4876-a7e4-f331a8cc9b37.png)
 
 ### MVC 모델과 3tier 방식의 차이점?
 
 mvc모델은 **디자인 패턴**의 일종이고, 3tier는 **소프트웨어 아키택처**의 일종이다.
 
-![Untitled](%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC%207%E1%84%8C%E1%85%A1%E1%86%BC%2054a60e85a5b64a4bb63f3c3b4e93967c/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/26597702/135571565-a32489b9-4728-4d10-a08f-6ffaf904218d.png)
 
-![Untitled](%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC%207%E1%84%8C%E1%85%A1%E1%86%BC%2054a60e85a5b64a4bb63f3c3b4e93967c/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/26597702/135571635-17262174-f668-4a1e-ab03-10f1dff443a3.png)
 
 출처: [http://www.tonymarston.net/php-mysql/3-tier-architecture.html](http://www.tonymarston.net/php-mysql/3-tier-architecture.html)
 
@@ -68,4 +68,4 @@ mvc모델은 **디자인 패턴**의 일종이고, 3tier는 **소프트웨어 �
 
 각 화면을 설계하는 단계에서 사용자가 입력해야 하는 값과 함께 GET/POST 방식에 대해 언급해 두는 것이 좋다.
 
-![Untitled](%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC%207%E1%84%8C%E1%85%A1%E1%86%BC%2054a60e85a5b64a4bb63f3c3b4e93967c/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/26597702/135571647-6a45ce03-7991-4845-8ebe-d728e164e8a3.png)
