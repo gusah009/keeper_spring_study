@@ -2,7 +2,7 @@
 
 <br>
 
-![스크린샷 2021-10-28 오후 9.37.36](/Users/woochang/Desktop/스크린샷 2021-10-28 오후 9.37.36.png)
+![Untitled](https://miro.medium.com/max/1400/1*1YhtQ6FNKMc_CdptE0Vlyg.png)
 
 - MVC 구성요소
   - Controller
@@ -38,3 +38,5 @@
     ```jsp
     <%@ taglib uri="http://java.sun.com/jstl/core" prefix="c" %>
     ```
+
+[https://hleee.medium.com/%EB%AA%A8%EB%8D%B8-2-%EB%B0%A9%EC%8B%9D-%EA%B0%9C%EB%B0%9C-df8da43d1ff3](https://hleee.medium.com/%EB%AA%A8%EB%8D%B8-2-%EB%B0%A9%EC%8B%9D-%EA%B0%9C%EB%B0%9C-df8da43d1ff3)
