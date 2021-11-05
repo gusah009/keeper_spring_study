@@ -12,7 +12,7 @@
     3. SQL 실행
         <br>세워진 실행 계획을 통해서 메모리상에서 데이터를 읽거나, 물리적인 공간에서 데이터를 로딩하는 작업을 하게 됨.
 <p align=center>
-<img src="https://user-images.githubusercontent.com/36250213/140457430-231fa64a-27f2-4e73-ae36-411b8eea0ead.png"/>
+<img src="https://user-images.githubusercontent.com/36250213/140465319-2bc5da51-0a67-4a16-b931-258095727b72.png"/>
 </p>
 
 ## 인덱스, RowID
@@ -103,7 +103,7 @@
             rownum rn, bno, title, content
         from
             tbl_board
-        where rownum <= 20                      // 정렬 후 추출한 데이터 중, 상위 10개
+        where rownum <= 20                      // 정렬 후 추출한 데이터 중, 상위 20개
         )
     where rn > 10;                              // 20개 중, 뒤쪽 10개를 뽑음
     ```
