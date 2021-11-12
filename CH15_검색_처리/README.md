@@ -154,7 +154,7 @@
 
 <br/>
 
-- 여러 개의 파라미터들을 연결해서 URL의 형태로 만들어준다
+- 여러 개의 파라미터들을 연결해서 URI의 형태로 만들어준다
 
 ```java
 public String getListLink() {
