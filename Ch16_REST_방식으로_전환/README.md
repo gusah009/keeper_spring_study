@@ -5,7 +5,7 @@
 - Representational State Transfer
 - 하나의 URI는 하나의 고유한 Resource를 대표
 - 이에 대한 처리는 `GET`/`POST` 방식과 같은 추가적인 정보를 통해 결정
-- ex) `/boards/123`은 123번 게시물만을 대표하며, `GET`방식을 통해 게시물에 접근가능
+- ex) `/boards/123`은 123번 게시판만을 대표하며, `GET`방식을 통해 내부 게시물에 접근가능
 
 ## Annotations
 
